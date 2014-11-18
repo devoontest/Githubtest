@@ -3,6 +3,7 @@ items:[
 {
 imageMediaID:"BAA4CEA3-F7D1-47B2-B839-3DDDC0EECA4F",
 location:"5,30",
+onActionMethodID:"539D7C68-0BF2-4D2E-87EF-49F05EAD73A5",
 size:"143,142",
 text:"",
 transparent:true,
