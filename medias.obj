@@ -12,5 +12,12 @@ mimeType:"image/png",
 name:"icon120.png",
 typeid:37,
 uuid:"BAA4CEA3-F7D1-47B2-B839-3DDDC0EECA4F"
+},
+{
+encapsulation:0,
+mimeType:"text/html",
+name:"template.html",
+typeid:37,
+uuid:"CEBDF17D-E0BB-409D-B34D-B617D6BACE9D"
 }
 ]
