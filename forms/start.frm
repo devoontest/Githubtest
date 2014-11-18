@@ -11,6 +11,17 @@ typeid:7,
 uuid:"30A338D9-81AA-4594-8E29-0639FC10C88E"
 },
 {
+dataProviderID:"html",
+displayType:8,
+editable:false,
+location:"153,5",
+name:"htmlarea",
+onRenderMethodID:"0B2B7E26-E25A-44A6-8E42-BB3C5475D81A",
+size:"482,470",
+typeid:4,
+uuid:"3A3B8C50-DE02-4CC3-891A-CB30B4F29E92"
+},
+{
 fontType:"Arial,0,12",
 foreground:"#303030",
 format:"|U",
